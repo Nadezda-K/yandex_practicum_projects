@@ -11,8 +11,7 @@
     
 ### Описание данных
 Данные о поведении клиентов, которые уже перешли на эти тарифы.
-Предобработка данных сделана в проекте 
-04_telecom_plan_analysis .
+Предобработка данных сделана в проекте [04_telecom_plan_analysis](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/04_telecom_plan_analysis).
 
 ### Используемые инструменты
 Matplotlib,Pandas,Python,Scikit-learn
