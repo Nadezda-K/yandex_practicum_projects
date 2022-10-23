@@ -9,8 +9,8 @@
 
 Название проекта | Описание | Навыки и Инструменты
 ---------------- | -------- | --------------------
-[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/01_yandex.music_data_analysis) | 
-[Исследование надёжности заёмщиков — анализ банковских данных]02_bank_score_analysis) |
+[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/01_yandex.music_data_analysis) | Сравнение поведения и предпочтений пользователей Москвы и Санкт-Петербурга основываясь на данных Яндекс.Музыки | Pandas, Python
+[Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/02_bank_score_analysis) | Исследование влияния семейного положения и количества детей клиента на факт возврата кредита в срок. Исследование на основе статистики о  платёжеспособности клиентов. | Pandas, Python, предобработка данных
 [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/03_real_estate_analysis) |
 [Определение выгодного тарифа для телеком компании](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/04_telecom_plan_analysis) |
 [Исследование популярности компьютерных игр](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/05_computer_games_analysis) |
