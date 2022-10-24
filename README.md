@@ -19,13 +19,9 @@
 [Определение наиболее выгодного региона нефтедобычи](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/08_choosing_location_for_oil_well) | Разработка модели для определения региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и рисков техникой Bootstrap. Предоставлены пробы нефти в трёх регионах, характеристики для каждой скважины в регионе уже известны. | Pandas, Scikit-learn, bootstrap
 [Исследование технологического процесса очистки золота](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/09_gold_recovery) | Построение модели для предсказывает коэффициент восстановления золота из руды, на основе данных с параметрами добычи и очистки. | Matplotlib, NumPy, Pandas, Python, Scikit-learn, исследовательский анализ данных
 [Защита данных клиентов страховой компании](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/10_personal_data) | Защита данные клиентов страховой компании. Разработка метода преобразования данных для аномизирования персональной информации. | NumPy,Python,Scikit-learn
-[Построение модели определения стоимости автомобиля](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/11_car_price_prediction) |  | Pandas, Python, lightgbm
-
-[Прогнозирование количества заказов такси на следующий час](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/12_taxi_orders_prediction) |  | Pandas, Python, Scikit-learn, statsmodels
-
-[Обучение модели классификации комментариев](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/13_toxic_comments) |  | Pandas, Python, nltk, tf-idf
-
-[Обработка фотографий покупателя](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/14_face_recognition) |  | Keras, Python
-
+[Построение модели определения стоимости автомобиля](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/11_car_price_prediction) | Разработка модели для определения рыночной цены на поддержанный автомобиль на основе исторических данных | Pandas, Python, lightgbm
+[Прогнозирование количества заказов такси на следующий час](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/12_taxi_orders_prediction) | Разработка системы предсказания объема заказа такси на следующий час. В работе используются исторические данные о заказах такси в аэропортах. | Pandas, Python, Scikit-learn, statsmodels
+[Обучение модели классификации комментариев](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/13_toxic_comments) | Классификация комментариев к товарам в интеренет-магазине, с целью определения токсичности | Pandas, Python, nltk, tf-idf
+[Обработка фотографий покупателя](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/14_face_recognition) | Построение модели для определения приблизительного возраста человека по фотографии. Есть набор фотографий людей с указанием возраста. | Keras, Python
 [Предсказание температуры стали](https://github.com/Nadezda-K/yandex_practicum_projects/tree/main/15_steel_temperature_prediction) | Построение модели предсказания температуры для оптимизации производственных расходов металлургического комбината | NumPy, Pandas, Sklearn, MatPlotLib, Seaborn, Градиентный бустинг, Сatboost
 
